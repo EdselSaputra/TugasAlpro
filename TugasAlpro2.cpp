@@ -4,8 +4,8 @@ using namespace std;
 /*
     Nama    : Edsel Rivenda Saputra
     NIM     : A11.2022.14305
+    Matkul  : Algoritma Pemrograman
     Kelompok: A11.4207
-    Matkul  : Algoritma dan Pemrograman
     Tugas 2
 */
 
